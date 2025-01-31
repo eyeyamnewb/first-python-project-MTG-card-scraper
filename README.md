@@ -19,5 +19,6 @@ any tips and tricks are highly appreciated
 
 
 
-author note: planning to add opencv someday to enable live scanner function but i wanna play around with first for something else
+author note: planning to add opencv someday to enable live scanner function or mass scan my friend wishlist as i am go to supplier for ordering single 
+             from sites such as the one im scraping from or cardkingdom  but i wanna play around with first for something else
              shits look fun AF, not only that kinda planning to add live FXrate for easy conversion to local currency.
