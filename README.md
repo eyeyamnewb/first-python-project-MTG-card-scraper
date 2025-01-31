@@ -11,7 +11,8 @@ sure i could use the available tools in the app store but they dont have any cur
 
 
 to use:
-- have selenium python pkgs
+- install selenium:
+      -pip install selenium
 - open the for test run.txt file and write the name of the mtg card you want.
 - to be more specific with your card you can add the set name and number (found in bottom right corner of the card)
   along with enn or enf (enn =english non foil, enf = english foil)
