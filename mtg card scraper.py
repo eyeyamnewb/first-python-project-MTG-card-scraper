@@ -9,6 +9,11 @@ from bs4 import BeautifulSoup
 browser = webdriver.Chrome()
 
 #create a csv file for the data to be written into following the title given 
+
+with open( file, "w") as output:
+    csv = csv.writer(output)
+    csv.writerow(["title","color","set","type","card set number","rarity","foil","price"])
+
 file = open("cards data.csv","w")
 writer = csv.writer(file)
 writer.writerow(["title","color","set","type","card set number","rarity","foil","price"])
